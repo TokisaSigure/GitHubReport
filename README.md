@@ -14,14 +14,14 @@
   ・・・はい、それで投げたら説明じゃないので、きちんと説明していきます。<br>
 ###1.「GitHubのアカウント取得」について<br>
   1-1:まず、GitHubにアクセスします。(URL:https://github.com/ ) 下のような画面になると思います。<br>
-  ![画像１](https://github.com/TokisaSigure/GitHubReport/blob/akagi2/images/toppage.png)<br>
+  ![画像１](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/toppage.png)<br>
   1-2:画面右にあるテキストボックスに、必要そうな情報を適当に書き込みます。<br>
   「Pick a username」には、ユーザーネームを※他者に公開されます<br>
-  ![画像２](https://github.com/TokisaSigure/GitHubReport/blob/akagi2/images/hogehogehogehogehogehoge.png)<br>
+  ![画像２](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/hogehogehogehogehogehoge.png)<br>
   「Your email」には、使用したいメールアドレスを※大学のメールアドレスを使うと、学生プランが使いやすいです！<br>
-  ![画像３](https://github.com/TokisaSigure/GitHubReport/blob/akagi2/images/hogepiyo.png)<br>
+  ![画像３](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/hogepiyo.png)<br>
   「Create a password」には、使用したいパスワードを入力してください。※ﾜｽﾚﾆｸｲﾔﾂﾆｼﾖｳﾈｰ（白目<br>
-  ![画像４](https://github.com/TokisaSigure/GitHubReport/blob/akagi2/images/hogepiyohogera.png)<br>
+  ![画像４](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/hogepiyohogera.png)<br>
   　ここまで出来たら、ずずいっと「Sign up for GitHub」をクリック！<br>
   　そうすると、こんな感じの画面が出るので<br>
 
