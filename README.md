@@ -13,17 +13,17 @@
   以上の4行程です。おしまい！簡単だね！<br>
   ・・・はい、それで投げたら説明じゃないので、きちんと説明していきます。<br>
 ###1.「GitHubのアカウント取得」について<br>
-  1-1:まず、GitHubにアクセスします。(URL:https://github.com/)下のような画面になると思います。<br>
-  ![画像１](toppage)
+  1-1:まず、GitHubにアクセスします。(URL:https://github.com/ ) 下のような画面になると思います。<br>
+  ![画像１](toppage)<br>
   1-2:画面右にあるテキストボックスに、必要そうな情報を適当に書き込みます。<br>
-  「Pick a username」には、ユーザーネームを※他者に公開されます<<br>
-  ![画像２](hogehogehogehogehogehoge)
-  「Your email」には、使用したいメールアドレスを※大学のメールアドレスを使うと、学生プランが使いやすいです！
-  ![画像３](piyopiyo)
-  「Create a password」には、使用したいパスワードを入力してください。※ﾜｽﾚﾆｸｲﾔﾂﾆｼﾖｳﾈｰ（白目
-  ![画像４](hogepiyohogera)
-  　ここまで出来たら、ずずいっと「Sign up for GitHub」をクリック！
-  　そうすると、こんな感じの画面が出るので
+  「Pick a username」には、ユーザーネームを※他者に公開されます<br>
+  ![画像２](hogehogehogehogehogehoge)<br>
+  「Your email」には、使用したいメールアドレスを※大学のメールアドレスを使うと、学生プランが使いやすいです！<br>
+  ![画像３](piyopiyo)<br>
+  「Create a password」には、使用したいパスワードを入力してください。※ﾜｽﾚﾆｸｲﾔﾂﾆｼﾖｳﾈｰ（白目<br>
+  ![画像４](hogepiyohogera)<br>
+  　ここまで出来たら、ずずいっと「Sign up for GitHub」をクリック！<br>
+  　そうすると、こんな感じの画面が出るので<br>
 
   　  
 
