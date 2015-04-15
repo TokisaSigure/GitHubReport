@@ -26,8 +26,10 @@
   　そうすると、こんな感じの画面が出るので<br>
   ![画像5](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/selectPlan.png)  
   「free Plan」が選択されていることを確認し、下の方にあるチェックボックスからチェックを外します。<br>
-  ここまで出来たら後は簡単！「Finish sign up」をクリックしてアカウント開設完了です！<br>
+  ここまで出来たら後は簡単！「Finish sign up」をクリックしてアカウント開設完了です！<br><br>
   はい、そしたらまたこんな感じの訳の分からない画像が出てきましたね。<br>
+  ![画像6](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/Start1.png)  
+    はい、そしたらあわてず騒がず
   
   　  
 
