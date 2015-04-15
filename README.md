@@ -22,9 +22,10 @@
   ![画像３](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/hogepiyo.png)<br>
   「Create a password」には、使用したいパスワードを入力してください。※ﾜｽﾚﾆｸｲﾔﾂﾆｼﾖｳﾈｰ（白目<br>
   ![画像４](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/hogepiyohogera.png)<br>
-  　ここまで出来たら、ずずいっと「Sign up for GitHub」をクリック！<br>
+  　ここまで出来たら、ずずいっと「Sign up for GitHub」をクリック！<br><br>
   　そうすると、こんな感じの画面が出るので<br>
-
+  ![画像5](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/selectPlan.png)  
+  「free Plan」が選択されていることを確認し、下の方にあるチェックボックスからチェックを外します。<br>
   　  
 
 
