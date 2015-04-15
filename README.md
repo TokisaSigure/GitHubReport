@@ -29,11 +29,22 @@
   ここまで出来たら後は簡単！「Finish sign up」をクリックしてアカウント開設完了です！<br><br>
   はい、そしたらまたこんな感じの訳の分からない画像が出てきましたね。<br>
   ![画像6](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/Start1.png)  
-    はい、そしたらあわてず騒がず
-  
+    はい、そしたらあわてず騒がず「+New Repository」と書いてある緑色のボタンをクリック！  
+  すると、下のような画面になるので、下の画像と同じように入力します。  
+  ![画像7](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/fristRipository.png)<br>
+    で、ここまで来たらもう少し！また「Crate Repository」と書いてある緑色のボタンをクリックし、
+    下のような画面になったら、「Clone in Desktop」をクリック!<br>
+  ![画像8](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/GitHubforWindowds.png)
+  <br><br>
+    お疲れ様でした！後は、出てきた画面の「Download GitHub for Windows」をクリックして、ダウンロードすればおしまいです！
+  ![画像9](https://github.com/TokisaSigure/GitHubReport/blob/akagi1/images/Goal.png)
+  <br><br>
+    後は、ダウンロード出来たSetUpファイルを実行して、画面の指示に従って進んでいけばオッケーです！<br>
+###ようこそ！GitHubの世界へ！<br>これから貴方とGitちゃんのハネムーンが始まりますよ！！<br><br><br>
   　  
 
-
+------------------------------------------------------------------
+[メモの内容について]
 個人的解釈多めで書いていくので、間違いがある場合があるので注意。
 また、同じ理由で間違った用語などを用いている可能性が『非常に大きい』。
 大目に見てもらえると助かります。
